@@ -1,5 +1,5 @@
 {
-  "name": "6dreams/doctrine-bulk",
+  "name": "syamcode/doctrine-bulk",
   "description": "Simple classes that allows bulk operations on doctrine entities.",
   "version": "1.0.1",
   "type": "library",
